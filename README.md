@@ -4,12 +4,12 @@
 
 # Diabetes Prediction: Deep Learning Approach
 
-# Classification Problem
+### Classification Problem
 The objective is to predict whether a person has diabetes or not, based on diagnostic measurements such as blood pressure, body mass index (BMI), age, etc.
 
 Data Set Information:
 
-The 8 features of the diabetes dataset are:
+The diabetes dataset contains 8 features:
 - Pregnancies: Number of times pregnant
 - Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 - BloodPressure: Diastolic blood pressure (mm Hg)
@@ -23,12 +23,12 @@ The target from the diabetes dataset: Outcome Class variable (0:negative or 1:po
 
 Notes: the dataset contains missing and duplicate value.
 
-# How to use it
+### How to use it
 Clone repo and run it.
 - deep_learning_train.py is python scripts to train the data.
 - app.py is python scripts for deployment and web app.
 
-# Download
+### Download
 The dataset can be downloaded from:
 https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 

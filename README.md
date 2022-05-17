@@ -5,7 +5,7 @@
 # Diabetes Prediction: Deep Learning Approach
 
 # Classification Problem
-The objective of the diabetes dataset is to predict whether a person has diabetes or not, based on based on diagnostic measurements such as blood pressure, body mass index (BMI), age, etc.
+The objective is to predict whether a person has diabetes or not, based on diagnostic measurements such as blood pressure, body mass index (BMI), age, etc.
 
 Data Set Information:
 
@@ -19,7 +19,7 @@ The 8 features of the diabetes dataset are:
 - DiabetesPedigreeFunction: Diabetes pedigree function on genetic influence and hereditary risk
 - Age: Age (years)
 
-The target of the diabetes dataset: Outcome Class variable (0:negative or 1:positive)
+The target from the diabetes dataset: Outcome Class variable (0:negative or 1:positive)
 
 Notes: the dataset contains missing and duplicate value.
 
